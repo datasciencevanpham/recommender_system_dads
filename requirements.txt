@@ -8,4 +8,3 @@ underthesea
 gensim
 unidecode
 streamlit_extras
-scipy>=1.10.1
