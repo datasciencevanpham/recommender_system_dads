@@ -9,3 +9,4 @@ gensim==3.8.3
 unidecode
 streamlit_extras
 scipy==1.8
+gensim --prefer-binary
