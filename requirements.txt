@@ -5,8 +5,9 @@ matplotlib
 seaborn
 scikit-learn
 underthesea
-gensim==3.8.3
+# gensim==3.8.3
 unidecode
 streamlit_extras
 scipy==1.8
-gensim --prefer-binary
+# gensim --prefer-binary
+gensim
